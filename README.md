@@ -21,6 +21,11 @@ Before you begin, ensure you have the following installed:<br>
 **Code Editor:** Visual Studio Code with Flutter extension or Android Studio.<br>
 **Device/Emulator:** You can use a physical device or an emulator for testing.<br>
 
+## 💻 Requirements
+Flutter SDK (>= 3.19.0)<br>
+Dart (>= 3.3)<br>
+Android Studio or VS Code or a connected device<br>
+
 ## 🛠️ Technology Stack
 The application is built with the following technologies:<br>
 
@@ -35,8 +40,11 @@ This To-Do Application allows users to: <br>
 **Mark as Completed:** Tap on a task to mark it as completed, with a strikethrough effect. <br>
 **Delete Tasks:** Remove tasks from the list when they’re no longer needed. <br>
 
+## 📱 Platforms
+This app supports Android platform.
+
 ## 📬 Contact
-For questions or feedback, feel free to reach out!<br><br>
+If you have any questions or suggestions, feel free to reach out!<br><br>
 
 Poorvi Gupta<br>
 poorviguptacom@gmail.com<br>
