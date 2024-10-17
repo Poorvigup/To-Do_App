@@ -21,4 +21,27 @@ Before you begin, ensure you have the following installed:<br>
 **Code Editor:** Visual Studio Code with Flutter extension or Android Studio.<br>
 **Device/Emulator:** You can use a physical device or an emulator for testing.<br>
 
+## 🛠️ Technology Stack
+The application is built with the following technologies:<br>
+
+**Flutter:** The UI toolkit for crafting beautiful, natively compiled applications for mobile from a single codebase.<br>
+**Dart:** The programming language used for Flutter development.<br>
+
+## ⚙️ Available Functionality
+This To-Do Application allows users to: <br>
+
+**Add Tasks:** Enter task descriptions. <br>
+**View Tasks:** See all tasks organized in a list. <br>
+**Mark as Completed:** Tap on a task to mark it as completed, with a strikethrough effect. <br>
+**Delete Tasks:** Remove tasks from the list when they’re no longer needed. <br>
+
+## 📬 Contact
+For questions or feedback, feel free to reach out!<br><br>
+
+Poorvi Gupta<br>
+poorviguptacom@gmail.com<br>
+Linkedin: https://www.linkedin.com/in/poorvi-gupta-a817032a0<br>
+##
+Thank you for checking out the To-Do Application. We hope this tool helps you stay organized and productive. Happy task managing! 🎉
+
 
