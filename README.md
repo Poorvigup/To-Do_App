@@ -11,10 +11,10 @@ The To-Do Application is a Flutter project that provides a straightforward solut
 **Responsive UI:** Designed to work smoothly on various devices, with adaptive layouts for mobile and tablet screens.<br>
 
 ## 🛠️ Getting Started
-To run this project, ensure you have Flutter installed on your system. Here’s a quick guide to setting up the app locally.<br><br>
+To run this project, ensure you have Flutter installed on your system. Here’s a quick guide to setting up the app locally.<br>
 
 **Prerequisites**<br>
-Before you begin, ensure you have the following installed:<br><br>
+Before you begin, ensure you have the following installed:<br>
 
 **Flutter SDK**<br>
 **Dart SDK:** Dart is included with Flutter, so no additional installation is needed.<br>
