@@ -10,4 +10,15 @@ The To-Do Application is a Flutter project that provides a straightforward solut
 **Delete Tasks:** Remove tasks from the list with a single swipe or tap, keeping your to-do list clutter-free.<br>
 **Responsive UI:** Designed to work smoothly on various devices, with adaptive layouts for mobile and tablet screens.<br>
 
+## 🛠️ Getting Started
+To run this project, ensure you have Flutter installed on your system. Here’s a quick guide to setting up the app locally.<br><br>
+
+**Prerequisites**<br>
+Before you begin, ensure you have the following installed:<br><br>
+
+**Flutter SDK**<br>
+**Dart SDK:** Dart is included with Flutter, so no additional installation is needed.<br>
+**Code Editor:** Visual Studio Code with Flutter extension or Android Studio.<br>
+**Device/Emulator:** You can use a physical device or an emulator for testing.<br>
+
 
