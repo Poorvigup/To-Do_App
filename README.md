@@ -16,7 +16,7 @@ To run this project, ensure you have Flutter installed on your system. Here’s 
 **Prerequisites**<br>
 Before you begin, ensure you have the following installed:<br>
 
-**Flutter SDK**<br>
+**Flutter SDK.**<br>
 **Dart SDK:** Dart is included with Flutter, so no additional installation is needed.<br>
 **Code Editor:** Visual Studio Code with Flutter extension or Android Studio.<br>
 **Device/Emulator:** You can use a physical device or an emulator for testing.<br>
